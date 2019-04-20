@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MakeITApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="cant_work_without_perm">Sorry, but application can\'t work without location permission</string>
+</resources>
